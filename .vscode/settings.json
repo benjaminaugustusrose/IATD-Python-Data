@@ -1,0 +1,6 @@
+{
+    "notebook.output.fontFamily": "Calibri",
+    "notebook.output.fontSize": 12,
+    "notebook.output.textLineLimit": 50,
+    "notebook.output.wordWrap": true
+}
