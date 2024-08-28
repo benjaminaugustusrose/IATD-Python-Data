@@ -8,3 +8,4 @@ tqdm
 openpyxl
 jupyterlab
 seaborn
+sklearn
